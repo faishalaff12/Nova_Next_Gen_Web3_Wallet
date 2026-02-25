@@ -2,7 +2,7 @@
 
 A premium, dark-mode conversion funnel designed for Web3 startups and SaaS companies to capture leads and build a waitlist before product launch.
 
-🔗 **[Live Demo: Nova Web3 Waitlist](https://faishalaff12.github.io/Nova_Next_Gen_Web3_Wallet/)**
+🔗 **[Live Demo: Nova Web3 Wallet](https://faishalaff12.github.io/Nova_Next_Gen_Web3_Wallet/)**
 
 ## 🎯 The Objective
 In the fast-paced Web3 and SaaS industry, capturing early adopters is critical. The goal of this MVP (Minimum Viable Product) landing page is to act as a high-converting "Lead Machine." It convinces visitors to trade their email addresses for early access using a cyberpunk-inspired, modern UI.
